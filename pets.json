@@ -1,0 +1,65 @@
+[
+    {
+        "pet_name":  "Snowball", 
+        "pet_type": "cat",
+        "gender": "female",
+        "pet_age": 2, 
+        "pet_characteristics": "loves people, energetic, sleephead"
+    },
+    {
+        "pet_name":  "Dori",
+        "pet_type": "dog", 
+        "gender": "female",
+        "pet_age": 10, 
+        "pet_characteristics": "loves snugls, does not love strangers, need time to acomodate"
+    },
+    {
+        "pet_name":  "Astrid", 
+        "pet_type": "dog",
+        "gender": "male",
+        "pet_age": 5, 
+        "pet_characteristics": "disobedient, energetic"
+    },
+    {
+        "pet_name":  "Tiger", 
+        "pet_type": "cat",
+        "gender": "male",
+        "pet_age": 8, 
+        "pet_characteristics": "bitting, snugling when in a good mood, likes to eat"
+    },
+    {
+        "pet_name":  "Bullit", 
+        "pet_type": "dog",
+        "gender": "male",
+        "pet_age": 4, 
+        "pet_characteristics": "aggresive, will love you if trusts you, likes only human food"
+    },
+    {
+        "pet_name":  "Klee", 
+        "pet_type": "cat",
+        "gender": "female",
+        "pet_age": 5, 
+        "pet_characteristics": "loves people, sleephead, loves playing in puddles"
+    },
+    {
+        "pet_name":  "Cookie", 
+        "pet_type": "cat",
+        "gender": "male",
+        "pet_age": 4, 
+        "pet_characteristics": "loves food, can not tolarate lactose, will sleep with you even if hates you"
+    },
+    {
+        "pet_name":  "Nova", 
+        "pet_type": "dog",
+        "gender": "female",
+        "pet_age": 12, 
+        "pet_characteristics": "sleeps all the time, likes food, can feel your emotions and help you"
+    },
+    {
+        "pet_name":  "Lulu", 
+        "pet_type": "dog",
+        "gender": "female",
+        "pet_age": 5, 
+        "pet_characteristics": "loves people, trained to guid people who has problems with eyes"
+    }
+]
